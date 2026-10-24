@@ -1,0 +1,8 @@
+Starting Glimmr backend...
+Firebase Admin not configured (no service account provided).
+Server running on port 5001
+Firebase Admin enabled: false
+✅ MongoDB Connected
+Ensured partial unique index `email_partial_unique` exists on email
+Ensured partial unique index `username_partial_unique` exists on username
+Seeded 750 Glimmr products

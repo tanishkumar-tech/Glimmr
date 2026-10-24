@@ -1,0 +1,5 @@
+SMTP credentials not configured. Falling back to console email logger. Configure SMTP_* env vars for production.
+FIREBASE_SERVICE_ACCOUNT_PATH set but file not found: ./serviceAccountKey.json
+(node:28436) [MONGOOSE] Warning: Duplicate schema index on {"email":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:28436) [MONGOOSE] Warning: Duplicate schema index on {"phone":1} found. This is often due to declaring an index using both "index: true" and "schema.index()". Please remove the duplicate index definition.

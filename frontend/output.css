@@ -1,0 +1,16 @@
+/* Minimal output stylesheet to satisfy Vite import and provide default variables */
+:root{
+  --primary:#b58a4a;
+  --hover:#a1743f;
+  --secondary:#ffffff;
+  --textPrimary:#111827;
+}
+
+/* small helper styles used by the app */
+html,body,#root{height:100%;}
+.bg-primary{background:var(--primary);}
+.hover\:bg-hover:hover{background:var(--hover);}
+.text-secondary{color:var(--secondary);}
+
+/* keep placeholder for Tailwind output if developer runs build */
+@tailwind base; @tailwind components; @tailwind utilities;

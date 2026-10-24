@@ -1,0 +1,3 @@
+SMTP credentials not configured. Falling back to console email logger. Configure SMTP_* env vars for production.
+Twilio credentials not configured. SMS OTPs will be logged to the console. Configure TWILIO_* env vars for production.
+Dropping legacy index `mobile_1` to avoid duplicate null constraint on phone

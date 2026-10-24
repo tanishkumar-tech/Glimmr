@@ -1,0 +1,10 @@
+Server running on port 5001
+MongoDB Atlas connected
+Dropped legacy index mobile_1
+[AUTH] signup request body: {
+  body: {
+    username: 'debugok',
+    email: 'debugok@example.com',
+    password: 'DebugPass123'
+  }
+}

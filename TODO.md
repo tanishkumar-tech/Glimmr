@@ -1,0 +1,3 @@
+- [x] Identify the cause of "Failed to save product" error
+- [x] Fix image field mismatch in createProduct function (change 'image' to 'images' array)
+- [x] Fix image field mismatch in updateProduct function (change 'image' to 'images' array)
